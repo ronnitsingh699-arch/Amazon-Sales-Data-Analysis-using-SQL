@@ -72,6 +72,13 @@ Customer Insights
 📊 Member distribution: Male (240) | Female (261)
 📦 Units sold: Male: 2,641 | Female: 2,869
 
+🚀 How to Use
+
+Clone this repository
+Import the dataset into MySQL Workbench (or your preferred SQL client)
+Run the queries in the queries/ folder sequentially, or refer to the full report PDF for explanations alongside each query
+Explore the results and compare against the key findings above
+
 🧠 Conclusion
 
 This SQL-based analysis demonstrates how multiple factors — cost, customer behavior, timing, and product performance — combine to shape overall business performance, not just revenue alone. Sales performance varies significantly across product lines, branches, and time periods; some product lines drive higher profit despite lower volume, while customer ratings and purchase timing also influence revenue. Member customers and specific branches emerge as key contributors to overall performance.
