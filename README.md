@@ -79,4 +79,5 @@ This SQL-based analysis demonstrates how multiple factors — cost, customer beh
 This project reflects practical, business-oriented SQL skills suitable for entry-level Data Analyst roles.
 
    📬AUTHOR
+   
 "RONNIT SINGH"
